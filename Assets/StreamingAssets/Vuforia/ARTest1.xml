@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="Fissure_scaled" size="1.000000 1.727273" />
+    <ImageTarget name="Drone_scaled" size="1.000000 1.727273" />
+    <ImageTarget name="Astronaut_scaled" size="1.000000 1.727273" />
     <ImageTarget name="LastNightStory" size="1.000000 0.562500" />
     <ImageTarget name="OXYGEN" size="5.500000 3.189278" />
     <ImageTarget name="front_videoPlayer" size="1.000000 0.525000" />
